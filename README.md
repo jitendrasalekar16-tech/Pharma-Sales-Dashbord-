@@ -8,9 +8,13 @@
 
 # Business Goals
 1-	Track how different drugs/product are performing across market 
+<br />
 2-	Understanding which regions or zones are doing well or underperforming 
+<br />
 3-	Identify top suppliers and flag inefficiencies in the supply chain.
+<br />
 4-	Support Sales planning and revenue forecasting using historical trends.
+<br />
 5-	Improve Accountability and performance across the commercial ecosystem(Sales, Supply Chain, Marketing).
 6-	Automate the report refresh every day.
 
