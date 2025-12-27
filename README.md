@@ -27,3 +27,8 @@
 3- Interactive visuals for decision-making
 <br />
 4- End-to-end documentation covering business logic & process flow
+
+# Repository Structure 
+Dashbord: https://github.com/jitendrasalekar16-tech/Pharma-Sales-Dashbord-/blob/main/Pharma%20Sales%20Dashboard.pbix 
+<br />
+Images :
