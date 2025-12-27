@@ -31,4 +31,4 @@
 # Repository Structure 
 Dashbord: https://github.com/jitendrasalekar16-tech/Pharma-Sales-Dashbord-/blob/main/Pharma%20Sales%20Dashboard.pbix 
 <br />
-Images :https://github.com/jitendrasalekar16-tech/Pharma-Sales-Dashbord-/blob/main/Images.png
+Images :"D:\My Dashboard\Pharma Dashboard\Images.png"
