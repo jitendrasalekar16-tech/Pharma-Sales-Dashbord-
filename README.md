@@ -1,7 +1,9 @@
 # Pharma-Sales-Dashbord-
 # Project Overview
 1-Client: Pharma Company -Kipla
+<br />
 2-Purpose: Enable sales and Marketing team to analyze drug performance 
+<br />
 3-Scope: Sales trend, Regional Performance, Supplier, Revenue forecasting
 
 # Business Goals
