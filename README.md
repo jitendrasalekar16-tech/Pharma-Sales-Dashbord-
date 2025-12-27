@@ -13,7 +13,7 @@
 6-	Automate the report refresh every day.
 
 # What I Worked On
-Data modeling with multiple linked tables
-Business-focused KPIs and DAX measures
-Interactive visuals for decision-making
-End-to-end documentation covering business logic & process flow
+1- Data modeling with multiple linked tables
+2- Business-focused KPIs and DAX measures
+3- Interactive visuals for decision-making
+4- End-to-end documentation covering business logic & process flow
